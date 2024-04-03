@@ -1,3 +1,3 @@
 This is the read me file
 
-![example workflow](https://github.com/RavalArpan/SpringDemo/blob/master/.github/workflows/maven.yml)
+[![Java CI with Maven](https://github.com/RavalArpan/SpringDemo/actions/workflows/maven.yml/badge.svg)](https://github.com/RavalArpan/SpringDemo/actions/workflows/maven.yml)
